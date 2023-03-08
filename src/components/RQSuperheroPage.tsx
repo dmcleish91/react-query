@@ -16,10 +16,6 @@ export const RQSuperheroPage = () => {
       </div>
     );
 
-  if (data) {
-    console.table(data);
-  }
-
   return (
     <div className='content'>
       <h2>RQ Super Hero Page</h2>
